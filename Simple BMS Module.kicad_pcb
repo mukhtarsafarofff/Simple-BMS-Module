@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "Simple BMS Module ")
+    (date "24.03.2023")
+    (rev "1.0")
+    (company "by Muxtar_Safarov")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
